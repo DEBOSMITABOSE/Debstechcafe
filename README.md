@@ -12,5 +12,5 @@ Following are some key features of Azure App Service that made me choose this se
 #### Project URL - Azure - https://debstechcafe.azurewebsites.net/
 #### Video Demo + Deployment using Azure App Service URL: https://youtu.be/dZXGp4fP1gQ
 
-
+### Video Demo + Deployment using Azure App Service PUBLISHED BELOW HERE:
 [![Debstechcafe](https://user-images.githubusercontent.com/60229413/160335528-3fb69c46-f546-4698-a150-1d2be715e727.png)](https://youtu.be/dZXGp4fP1gQ)
